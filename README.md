@@ -11,8 +11,10 @@
 - Control user's activities
 ## Platform:
 - Java (Android)
-## Library:
+## Libraries:
 - YouTubeAndroidPlayerApi
+## Dependencies:
+- BCrypt 
 ## How to install and run app:
 - No need to install dependency
 - Download file from github
