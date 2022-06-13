@@ -14,7 +14,7 @@
 ## Libraries:
 - YouTubeAndroidPlayerApi
 ## Dependencies:
-- BCrypt 
+- [BCrypt](https://github.com/patrickfav/bcrypt) - For hashing user's password 
 ## How to install and run app:
 - No need to install dependency
 - Download file from github
